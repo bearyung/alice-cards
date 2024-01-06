@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's rediscover the **Wonderland**.
 
-## Getting Started
+## The Return to Wonderland: A New Chapter Begins
 
-Get started by **creating a new site**.
+Years have passed since Alice first tumbled down the rabbit hole into the enchanting realm of Wonderland. Now a young girl, she carries the memories of that fantastical world as distant, dream-like whispers. Life in the ordinary world continued, but part of her always yearned for the magic and mystery of the lands she once explored.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Then, on an ordinary day cloaked in the mundane, the extraordinary happened: the White Rabbit, with his waistcoat and pocket watch, darted past her once more. Her heart raced with recognition and excitement. The scene, so vivid and surreal, mirrored that fateful day from her childhood. With wide eyes and a hopeful heart, Alice followed, knowing deep within that the rabbit hole – the gateway to Wonderland – **had reopened**.
 
-### What you'll need
+Stepping into the rabbit hole this time, Alice finds Wonderland both familiar and transformed. Characters she once knew have evolved, and new faces have emerged. The lands are more whimsical, more challenging, more mysterious. It’s a Wonderland reborn, teeming with puzzles to solve, battles to be won, and secrets to uncover. Among these faces, the formidable Queen of Hearts casts a long shadow, her presence as enigmatic and commanding as ever.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+**"Alice: Cards of Wonder"** invites you to join Alice in this new chapter of her story. As she navigates this renewed Wonderland, she seeks to refine magical gems – the keys to understanding and possibly changing this world. Each character you meet, from the enigmatic Cheshire Cat to the boisterous Mad Hatter, and the imposing Queen of Hearts, plays a part in this adventure, offering their unique abilities and perspectives.
 
-## Generate a new site
+Will you aid Alice in her quest to unravel the new mysteries of Wonderland? Step into her shoes, strategize with legendary characters, and embark on an adventure that transcends the ordinary. In "Alice: Cards of Wonder," every card, every move, every choice weaves part of the story – your story – in this magical world.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+**Welcome back to Wonderland. The adventure awaits.**
