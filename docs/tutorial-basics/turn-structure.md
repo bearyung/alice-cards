@@ -61,3 +61,11 @@ There is a maximum capacity for each element type, based on the available space 
 ## Step 7: Draw Cards
 
 Draw cards until you have six in your hand. If you already have six or more cards, discard down to six.
+
+## Step 8: End Turn and Pass to Opponent
+
+Once you have completed all previous steps, your turn comes to an end. Indicate the end of your turn to your opponent. Play then passes to them, and they begin their turn starting from **Step 1**.
+
+## Game Flow
+
+The game continues in this turn-based manner, with each player following the steps from 1 to 8 during their turn. This loop continues until the winning conditions are met.
