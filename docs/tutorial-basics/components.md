@@ -19,10 +19,10 @@ Welcome to "Alice: Cards of Wonder." This player guide, available online, is you
 - **Element Tokens (6):** Essential for refining gems, representing elements like Water, Wood, Fire, Earth, Metal, and Herbs.
 
 ## Online Player Guide
-- You are currently reading the online version of the player guide, which provides comprehensive rules, card descriptions, and gameplay strategies.
+You are currently reading the online version of the player guide, which provides comprehensive rules, card descriptions, and gameplay strategies.
 
 ## Playmat 
---A thematic, beautifully illustrated playmat is available for purchase separately. It enhances the playing experience and adds to the aesthetic appeal of the game.
+A thematic, beautifully illustrated playmat is available for purchase separately. It enhances the playing experience and adds to the aesthetic appeal of the game.
 
 :::info Notes
 playmat is available for purchase separately
