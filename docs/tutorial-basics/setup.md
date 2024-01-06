@@ -18,7 +18,7 @@ Place the Gem tokens (Red, Green, and Purple) and Element tokens (Water, Wood, F
 ## Select Starting Characters
 Each player chooses one Creature card from their hand to start with and places it in front of them. This will be their active character for the first turn. The chosen card should be one of the four characters: Alice, the Mad Hatter, the White Rabbit, or the Cheshire Cat.
 
-:::notes Notes
+:::info Notes
 
 If a player does not have any Creature cards in their initial hand, they must show their hand to the other players for verification. After doing so, they shuffle these cards back into the deck, then draw a new hand of six cards. This ensures that each player starts with at least one Creature card.
 
