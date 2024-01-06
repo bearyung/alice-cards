@@ -14,8 +14,8 @@ Then, on an ordinary day cloaked in the mundane, the extraordinary happened: the
 
 Stepping into the rabbit hole this time, Alice finds Wonderland both familiar and transformed. Characters she once knew have evolved, and new faces have emerged. The lands are more whimsical, more challenging, more mysterious. It’s a Wonderland reborn, teeming with puzzles to solve, battles to be won, and secrets to uncover. Among these faces, the formidable Queen of Hearts casts a long shadow, her presence as enigmatic and commanding as ever.
 
-**"Alice: Cards of Wonder"** invites you to join Alice in this new chapter of her story. As she navigates this renewed Wonderland, she seeks to refine magical gems – the keys to understanding and possibly changing this world. Each character you meet, from the enigmatic Cheshire Cat to the boisterous Mad Hatter, and the imposing Queen of Hearts, plays a part in this adventure, offering their unique abilities and perspectives.
+**Alice: Cards of Wonder** invites you to join Alice in this new chapter of her story. As she navigates this renewed Wonderland, she seeks to refine magical gems – the keys to understanding and possibly changing this world. Each character you meet, from the enigmatic Cheshire Cat to the boisterous Mad Hatter, and the imposing Queen of Hearts, plays a part in this adventure, offering their unique abilities and perspectives.
 
-Will you aid Alice in her quest to unravel the new mysteries of Wonderland? Step into her shoes, strategize with legendary characters, and embark on an adventure that transcends the ordinary. In "Alice: Cards of Wonder," every card, every move, every choice weaves part of the story – your story – in this magical world.
+Will you aid Alice in her quest to unravel the new mysteries of Wonderland? Step into her shoes, strategize with legendary characters, and embark on an adventure that transcends the ordinary. In **Alice: Cards of Wonder**, every card, every move, every choice weaves part of the story – your story – in this magical world.
 
 **Welcome back to Wonderland. The adventure awaits.**
