@@ -43,14 +43,15 @@ In addition to Gem and Element Tokens, "Alice: Cards of Wonder" utilizes several
 
 - **Usage:** Place HP Tokens on a character card to track its current health. Characters start with a certain number of HP Tokens, as indicated in their description.
 
-- **Effect of Damage:** When a character receives damage, remove the corresponding number of HP Tokens. If a character’s HP drops to zero, they are defeated and must be moved to the discard pile.
+- **Effect:** When a character receives damage, remove the corresponding number of HP Tokens. If a character’s HP drops to zero, they are defeated and must be moved to the discard pile.
 Role in Battles: Monitoring HP is crucial during battles, as it determines a character's survivability and influence in the game.
 
 ### Reap Tokens:
 - **Purpose:** Reap Tokens indicate that a character is engaged in reaping elements.
-Usage: Place a Reap Token on a character card when they are reaping elements as per game rules.
 
-- **Restrictions:** A character with a Reap Token cannot declare or engage in fights during that turn. This represents their focus on gathering elements rather than battling.
+- **Usage:** Place a Reap Token on a character card when they are reaping elements as per game rules.
+
+- **Effect:** A character with a Reap Token cannot declare or engage in fights during that turn. This represents their focus on gathering elements rather than battling.
 
 ### Lock Tokens
 - **Purpose:** Lock Tokens are used to indicate that a character or artifact has been temporarily disabled or restricted by an opponent’s action or ability.
@@ -59,4 +60,7 @@ Usage: Place a Reap Token on a character card when they are reaping elements as 
 
 - **Effect:** The locked character or artifact cannot be used until the Lock Token is removed, typically at the start of the player’s next turn.
 
-- **Strategic Impact:** Lock Tokens can be a powerful tool to disrupt an opponent’s strategy or protect oneself from potential threats.
+    :::tip Strategic Use of Tokens
+    ***Strategic Impact***
+    Lock Tokens can be a powerful tool to disrupt an opponent’s strategy or protect oneself from potential threats.
+    :::
