@@ -6,7 +6,7 @@ sidebar_position: 5
 
 Proper handling of cards in "Alice: Cards of Wonder" is essential for fair and smooth gameplay. This section outlines the rules for drawing, shuffling, discarding, and managing your hand and deck.
 
-## Drawing Cards:
+## Drawing Cards
 
 **Beginning of the Game:** Each player starts the game by drawing six cards from the deck.
 
@@ -14,7 +14,7 @@ Proper handling of cards in "Alice: Cards of Wonder" is essential for fair and s
 
 **Deck Depletion:** If your deck runs out of cards, shuffle your discard pile to create a new draw deck. Continue drawing as required.
 
-## Shuffling Cards:
+## Shuffling Cards
 
 **Game Start:** Thoroughly shuffle your deck before starting the game.
 
@@ -22,7 +22,7 @@ Proper handling of cards in "Alice: Cards of Wonder" is essential for fair and s
 
 **Fair Play:** Ensure shuffling is done fairly and thoroughly to maintain the randomness of card distribution.
 
-## Discarding Cards:
+## Discarding Cards
 
 **Discard Actions:** During your turn, you may be required to discard cards from your hand or in play. This can be due to playing Action cards, using abilities, or as a result of an opponent's actions.
 
@@ -30,7 +30,7 @@ Proper handling of cards in "Alice: Cards of Wonder" is essential for fair and s
 
 **Card Retrieval:** Unless retrieved through specific card abilities, discarded cards remain in the discard pile until the draw deck needs to be reshuffled.
 
-# Managing Your Hand and Deck:
+# Managing Your Hand and Deck
 
 **Hand Limit:** The standard hand limit is six cards. If you ever have more than six cards in your hand at the end of your turn, you must discard down to six.
 
