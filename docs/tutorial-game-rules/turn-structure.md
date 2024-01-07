@@ -1,10 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Turn Structure
 
-Each player's turn in "Alice: Cards of Wonder" consists of the following steps:
+Each player's turn in 'Alice: Cards of Wonder' consists of the following steps:
 
 ## Step 1: Refine the Gem
 
