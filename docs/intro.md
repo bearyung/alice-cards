@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Introduction
 
-Let's rediscover the **Wonderland**.
-
 ## The Return to Wonderland: A New Chapter Begins
 
 Years have passed since Alice first tumbled down the rabbit hole into the enchanting realm of Wonderland. Now a young girl, she carries the memories of that fantastical world as distant, dream-like whispers. Life in the ordinary world continued, but part of her always yearned for the magic and mystery of the lands she once explored.

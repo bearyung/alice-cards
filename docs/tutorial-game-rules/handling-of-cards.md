@@ -30,7 +30,7 @@ Proper handling of cards in "Alice: Cards of Wonder" is essential for fair and s
 
 **Card Retrieval:** Unless retrieved through specific card abilities, discarded cards remain in the discard pile until the draw deck needs to be reshuffled.
 
-# Managing Your Hand and Deck
+## Managing Your Hand and Deck
 
 **Hand Limit:** The standard hand limit is six cards. If you ever have more than six cards in your hand at the end of your turn, you must discard down to six.
 
