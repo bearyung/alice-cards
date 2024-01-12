@@ -30,6 +30,10 @@ You may choose to change the Environment card in play or even discard the curren
 ### Heal
 - Reduce any damage on your creatures by 1.
 
+    :::info Order of Actions
+    Note: The actions in this step must be performed in order (Reap, then Heal). You may choose to skip either the Reap, the Heal, or even the entire step, but you cannot perform Heal before Reap.
+    :::
+
 ## Step 5: Play, Discard, Recycle or Use Cards
 
 You can perform these actions (Play, Discard, Use a Creature) in any order and repeat them any number of times within your turn.
