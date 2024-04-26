@@ -4,36 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Immerse in Wonderland',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Dive into a reimagined Wonderland with "Alice: Cards of Wonder," a game where strategy and narrative combine. Players explore enchanting landscapes, meet iconic characters, and solve the puzzles of a whimsically evolved world. It's perfect for players of all ages seeking a magical adventure.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Strategic Card Play',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Master the use of Creature, Artifact, Action, and Environment cards as you refine gems and outsmart your opponents. "Alice: Cards of Wonder" offers deep strategic gameplay that encourages thoughtful decisions and clever combinations.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Engaging for Everyone',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Whether you're a seasoned card gamer or new to tabletop adventures, "Alice: Cards of Wonder" provides an engaging experience with easy-to-learn rules and the potential for complex strategy. The game grows with you, making each playthrough uniquely challenging.
       </>
     ),
   },
 ];
+
 
 function Feature({Svg, title, description}) {
   return (
