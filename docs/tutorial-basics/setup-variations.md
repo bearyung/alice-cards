@@ -7,7 +7,7 @@ sidebar_position: 2
 **Alice: Cards of Wonder** offers various game variations to enhance your playing experience:
 
 :::info Notes
-This tutorial is based on playing **Alice: Cards of Wonder** with the base set plus the expansion set. It follows the Story Mode game flow and uses the full set gem refinement, where each player needs to refine three gems to win. Specific variations and scenarios will be indicated throughout the tutorial.
+This tutorial is based on playing **Alice: Cards of Wonder** with the base set plus the expansion set. It follows the **Story Mode** game flow and uses the **full set gem refinement**, where each player needs to refine three gems to win. Specific variations and scenarios will be indicated throughout the tutorial.
 :::
 
 ## Deck Setup Variation

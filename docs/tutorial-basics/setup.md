@@ -20,7 +20,7 @@ Each player chooses one Creature card from their hand to start with and places i
 
 :::info Notes
 
-If a player does not have any Creature cards in their initial hand, they must show their hand to the other players for verification. After doing so, they shuffle these cards back into the deck, then draw a new hand of six cards. This ensures that each player starts with at least one Creature card.
+If a player does not have any Creature cards in their initial hand, they **must** show their hand to the other players for verification. After doing so, they shuffle these cards back into the deck, then draw a new hand of six cards. This ensures that each player starts with at least one Creature card.
 
 :::
 
@@ -33,4 +33,4 @@ If you have the optional playmat, lay it out in the center of the play area. Pla
 ## Step 7: Determine First Player
 Decide who will take the first turn. This can be done randomly, by choosing the youngest player, or through any other method players agree upon.
 
-Once the setup is complete, you are ready to begin your adventure in Wonderland. Players will take turns drawing cards, playing cards, and engaging in the strategic elements of "Alice: Cards of Wonder."
+Once the setup is complete, you are ready to begin your adventure in Wonderland. Players will take turns drawing cards, playing cards, and engaging in the strategic elements of **Alice: Cards of Wonder**.
