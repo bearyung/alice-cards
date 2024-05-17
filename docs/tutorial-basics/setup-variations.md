@@ -6,7 +6,7 @@ sidebar_position: 2
 
 **Alice: Cards of Wonder** offers various game variations to enhance your playing experience:
 
-:::info Notes
+:::note Notes
 This tutorial is based on playing **Alice: Cards of Wonder** with the base set plus the expansion set. It follows the **Story Mode** game flow and uses the **full set gem refinement**, where each player needs to refine three gems to win. Specific variations and scenarios will be indicated throughout the tutorial.
 :::
 
@@ -24,3 +24,4 @@ This tutorial is based on playing **Alice: Cards of Wonder** with the base set p
 
 - **Full Set (Default)**: Players need to refine three gems to win the game. Each gem requires five different elements.
 - **Quick Match**: For a shorter game, players can choose to refine one or two gems to win. In this mode, each gem requires all six different elements. This variation adds a layer of complexity and urgency, making quick matches more challenging and strategic.
+
