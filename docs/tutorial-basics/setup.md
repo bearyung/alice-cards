@@ -39,7 +39,6 @@ The Element tokens (Water, Wood, Fire, Earth, Metal, Herbs) are shared between p
 For a quick match, players can decide to target refining 1 or 2 gems as the winning criteria. However, if players decide not to refine 3 gems, then 6 elements will be required to refine the gem instead of 5.
 :::
 
-:::info Base Set
 ## Step 5: Prepare Identity Cards
 Each player will have 5 character cards. Face down the character cards and only face up the one that they declare for that turn. Each player takes the Identity card corresponding to their chosen starting character and places it in front of them. These cards help track which Creature is currently active for each player.
 
