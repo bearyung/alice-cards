@@ -30,8 +30,14 @@ Small tokens representing the basic elements required for crafting gems. Players
 ## Gem Tokens
 Tokens that represent the ultimate goal of the game—refining these from elements is key to winning. Each gem requires a specific combination of elements.
 
+## Effect Tokens
+Effect Tokens are placed on cards to indicate that they have effects, abilities, or actions applied to them. They act as tags or labels to show side effects or additional functionalities of the cards.
+
 ## Reap
 A game action where a player collects element tokens based on the conditions and capabilities of their creature cards, typically when matching the environment.
+
+## Recycle
+Recycle is the process of converting the Artifact attached to a character card into the corresponding elements. However, it's important to note that not all Artifacts can be recycled, just like in the real world.
 
 ## Exhausted
 A state indicating that a creature or card has been used for the turn and cannot be used again until it is readied.

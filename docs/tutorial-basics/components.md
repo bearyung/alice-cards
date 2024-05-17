@@ -35,6 +35,6 @@ You are currently reading the online version of the player guide, which provides
 ## Playmat 
 A thematic, beautifully illustrated playmat is available for purchase separately. It enhances the playing experience and adds to the aesthetic appeal of the game.
 
-:::info Notes
+:::info Info
 The playmat is not required to play the game and is sold separately.
 :::

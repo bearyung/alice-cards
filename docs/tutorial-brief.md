@@ -31,18 +31,22 @@ Welcome to the tutorial for **Alice: Cards of Wonder**. This guide will help you
 
 This tutorial is structured to guide you through the game from start to finish. Begin with the setup instructions to get started, then move on to the game rules and variations. Refer to the strategies and tips section to improve your gameplay. Each section includes helpful Admonitions to highlight important information.
 
+:::note Notes
+This tutorial is based on playing **Alice: Cards of Wonder** with the base set plus the expansion set. It follows the **Story Mode** game flow and uses the **full set gem refinement**, where each player needs to refine three gems to win. Specific variations and scenarios will be indicated throughout the tutorial.
+:::
+
 ## Admonitions Used in This Tutorial
 
 :::note
 Used for general information and notes that enhance your understanding of the game.
 :::
 
-:::tip
-Provides helpful tips and strategies to improve your gameplay.
-:::
-
 :::info
 Highlights important information about game rules and mechanics.
+:::
+
+:::tip
+Provides helpful tips and strategies to improve your gameplay.
 :::
 
 :::warning
@@ -51,8 +55,4 @@ Alerts you to potential pitfalls or common mistakes to avoid.
 
 :::danger
 Warns you about critical issues that could affect your game experience or lead to incorrect gameplay.
-:::
-
-:::note Notes
-This tutorial is based on playing **Alice: Cards of Wonder** with the base set plus the expansion set. It follows the **Story Mode** game flow and uses the **full set gem refinement**, where each player needs to refine three gems to win. Specific variations and scenarios will be indicated throughout the tutorial.
 :::

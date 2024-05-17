@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-:::info
-**Note:** These setup instructions are based on the Base set + Expansion set, and are for the Story Mode with Shared Deck.
-:::
-
 # Setup Instructions
 
 Setting up **Alice: Cards of Wonder** is a simple and straightforward process. Follow these steps to prepare for your journey into Wonderland:
+
+:::info Assumptions
+This tutorial is based on playing **Alice: Cards of Wonder** with the base set plus the expansion set. It follows the **Story Mode** game flow and uses the **full set gem refinement**, where each player needs to refine three gems to win. Specific variations and scenarios will be indicated throughout the tutorial.
+:::
 
 ## Step 1: Prepare the Deck
 Shuffle the playing cards thoroughly to ensure a random distribution of Creatures, Artifacts, Actions.
