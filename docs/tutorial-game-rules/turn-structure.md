@@ -10,15 +10,10 @@ Each player's turn in 'Alice: Cards of Wonder' consists of the following steps:
 
 If you possess the required elements for one of the gems (Red, Green, or Purple), you must refine it at the start of your turn. Only one gem can be refined during this step.
 
-## Step 2: Declare the Creature
-
-Declare which Creature you will use for this turn by flipping the corresponding Identity Card face up. The opposing player (passive player) does not take any actions during this step.
-
-
-## Step 3: Reap and Heal
+## Step 2: Reap and Heal
 
 ### Reap
-- If your Creature Card’s element matches the element on the Environment card, place a “Reap” token on the Creature card and turn it 90 degrees to show it is “exhausted.” During the Collect Elements step, you gain the corresponding element.
+- If your Creature Cards in play with element matches the element on the Environment card, place a “Reap” token on the Creature card and turn it 90 degrees to show it is “exhausted.” During the Collect Elements step, you gain the corresponding element.
 
     :::warning Notes
     Only undamaged creatures can Reap.
@@ -31,7 +26,7 @@ Declare which Creature you will use for this turn by flipping the corresponding 
 The actions in this step must be performed in order (Reap, then Heal). You may choose to skip either the Reap, the Heal, or even the entire step, but you cannot perform Heal before Reap.
 :::
 
-## Step 4: Maintain or Change Environment
+## Step 3: Maintain or Change Environment
 
 ### Story Mode
 If there was a fight in the last round, the current environment is **collapsed** regardless of which player initiated the fight. The collapsed environment must be changed. Move the current environment card to the bottom of the environment card deck, face down, and enter the next environment.
@@ -46,6 +41,10 @@ In Free Mode, the environment **will not be collapsed** even if there was a figh
 :::info Reap
 If the environment has changed to a new one, the reaping characters will lose their reap state. The elements gained from the reap should be put back into the pool, and the reaping characters should be turned back from the exhausted position to the ready position.
 :::
+
+## Step 4: Declare the Creature
+
+Declare which Creature you will use for this turn by flipping the corresponding Identity Card face up. 
 
 ## Step 5: Play, Discard, Recycle or Use Cards
 
