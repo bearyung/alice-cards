@@ -20,7 +20,7 @@ Declare which Creature you will use for this turn by flipping the corresponding 
 ### Reap
 - If your Creature Card’s element matches the element on the Environment card, place a “Reap” token on the Creature card and turn it 90 degrees to show it is “exhausted.” During the Collect Elements step, you gain the corresponding element.
 
-    :::info Notes
+    :::warning Notes
     Only undamaged creatures can Reap.
     :::
 
@@ -39,7 +39,7 @@ If there was a fight in the last round, the current environment is **collapsed**
 ### Free Mode
 You may choose to change the Environment card in play by drawing the first card from the shuffled environment card deck. If you choose to change the environment, the remaining steps will be passed, and play will be passed to the next player.
 
-:::info Notes
+:::warning Notes
 In Free Mode, the environment **will not be collapsed** even if there was a fight in the last round.
 :::
 
