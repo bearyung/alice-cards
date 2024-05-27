@@ -12,13 +12,10 @@ If you possess the required elements for one of the gems (Red, Green, or Purple)
 
 ## Step 2: Declare the Creature
 
-Declare which Creature you will use for this turn by flipping the corresponding Creature Token face up. The opposing player (passive player) does not take any actions during this step.
+Declare which Creature you will use for this turn by flipping the corresponding Identity Card face up. The opposing player (passive player) does not take any actions during this step.
 
-## Step 3: Maintain or Change Environment
 
-You may choose to change the Environment card in play or even discard the current Environment card. The game round can continue without an Environment card. Without an Environment card, you may still collect elements by winning battles.
-
-## Step 4: Reap and Heal
+## Step 3: Reap and Heal
 
 ### Reap
 - If your Creature Card’s element matches the element on the Environment card, place a “Reap” token on the Creature card and turn it 90 degrees to show it is “exhausted.” During the Collect Elements step, you gain the corresponding element.
@@ -31,7 +28,23 @@ You may choose to change the Environment card in play or even discard the curren
 - Reduce any damage on your creatures by 1.
 
 :::info Order of Actions
-Note: The actions in this step must be performed in order (Reap, then Heal). You may choose to skip either the Reap, the Heal, or even the entire step, but you cannot perform Heal before Reap.
+The actions in this step must be performed in order (Reap, then Heal). You may choose to skip either the Reap, the Heal, or even the entire step, but you cannot perform Heal before Reap.
+:::
+
+## Step 4: Maintain or Change Environment
+
+### Story Mode
+If there was a fight in the last round, the current environment is "collapsed" regardless of which player initiated the fight. The collapsed environment must be changed. Move the current environment card to the bottom of the environment card deck, face down, and enter the next environment.
+
+### Free Mode
+You may choose to change the Environment card in play by drawing the first card from the shuffled environment card deck. If you choose to change the environment, the remaining steps will be passed, and play will be passed to the next player.
+
+:::INFO Notes
+In Free Mode, the environment will not be collapsed even if there was a fight in the last round.
+:::
+
+:::info Reap
+If the environment has changed to a new one, the reaping characters will lose their reap state. The elements gained from the reap should be put back into the pool, and the reaping characters should be turned back from the exhausted position to the ready position.
 :::
 
 ## Step 5: Play, Discard, Recycle or Use Cards
@@ -42,7 +55,7 @@ You can perform these actions (Play, Discard, Use a Creature) in any order and r
 - Play Creature, Artifact, and Action cards. Environments can affect the Creature, altering abilities, attack/defense levels, and Artifact capacity.
 
 ### Discard
-- Discard any number of cards from your hand or in play that belong to the declared Creature. Environment cards can be discarded freely as they are not specific to any Creature.
+- Discard any number of cards from your hand or in play that belong to the declared Creature. 
 
 ### Recycle
 - You may choose to discard Artifact cards attached to your declared creature. Doing so allows you to collect elements represented by the Artifact Cards by moving the discarded Artifact cards to the discard pile and the gained elements to the Creature card.
@@ -52,11 +65,11 @@ You can perform these actions (Play, Discard, Use a Creature) in any order and r
     :::
 
 ### Use a Creature
-- Initiate a fight by turning your Creature card 90 degrees to an “exhausted” position. Choose an opponent’s creature to battle. Creatures deal damage simultaneously. The winner can collect elements from the opponent’s creature if it has Artifacts attached.
+- Initiate a fight by turning your Creature card 90 degrees to an **exhausted** position. Choose an opponent’s creature to fight. Creatures deal damage simultaneously. The winner can collect elements from the opponent’s creature if it has Artifacts (items) attached.
 
 ## Step 6: Ready Cards and Collect Elements
 
-Turn all “exhausted” cards back to a ready position. Collect any elements gained during your turn.
+Turn all **exhausted** cards back to a ready position. Collect any elements gained during your turn.
 
 :::info Notes
 There is a maximum capacity for each element type, based on the available space on your Gem Tokens. If you cannot place a gained element due to lack of capacity, you must discard that element.
