@@ -34,13 +34,13 @@ The actions in this step must be performed in order (Reap, then Heal). You may c
 ## Step 4: Maintain or Change Environment
 
 ### Story Mode
-If there was a fight in the last round, the current environment is "collapsed" regardless of which player initiated the fight. The collapsed environment must be changed. Move the current environment card to the bottom of the environment card deck, face down, and enter the next environment.
+If there was a fight in the last round, the current environment is **collapsed** regardless of which player initiated the fight. The collapsed environment must be changed. Move the current environment card to the bottom of the environment card deck, face down, and enter the next environment.
 
 ### Free Mode
 You may choose to change the Environment card in play by drawing the first card from the shuffled environment card deck. If you choose to change the environment, the remaining steps will be passed, and play will be passed to the next player.
 
-:::INFO Notes
-In Free Mode, the environment will not be collapsed even if there was a fight in the last round.
+:::info Notes
+In Free Mode, the environment **will not be collapsed** even if there was a fight in the last round.
 :::
 
 :::info Reap
@@ -69,7 +69,7 @@ You can perform these actions (Play, Discard, Use a Creature) in any order and r
 
 ## Step 6: Ready Cards and Collect Elements
 
-Turn all **exhausted** cards back to a ready position. Collect any elements gained during your turn.
+Turn all “exhausted cards back to a ready position. Collect any elements gained during your turn.
 
 :::info Notes
 There is a maximum capacity for each element type, based on the available space on your Gem Tokens. If you cannot place a gained element due to lack of capacity, you must discard that element.
