@@ -15,7 +15,7 @@ If you possess the required elements for one of the gems (Red, Green, or Purple)
 ### Reap
 - If your Creature Cards in play with element matches the element on the Environment card, place a “Reap” token on the Creature card and turn it 90 degrees to show it is “exhausted.” During the Collect Elements step, you gain the corresponding element.
 
-    :::warning Notes
+    :::warning
     Only undamaged creatures can Reap.
     :::
 
@@ -29,16 +29,16 @@ The actions in this step must be performed in order (Reap, then Heal). You may c
 ## Step 3: Maintain or Change Environment
 
 ### Story Mode
-If there was a fight in the last round, the current environment is **collapsed** regardless of which player initiated the fight. The collapsed environment must be changed. Move the current environment card to the bottom of the environment card deck, face down, and enter the next environment.
+- If there was a fight in the last round, the current environment is **collapsed** regardless of which player initiated the fight. The collapsed environment must be changed. Move the current environment card to the bottom of the environment card deck, face down, and enter the next environment.
 
 ### Free Mode
-You may choose to change the Environment card in play by drawing the first card from the shuffled environment card deck. If you choose to change the environment, the remaining steps will be passed, and play will be passed to the next player.
+- You may choose to change the Environment card in play by drawing the first card from the shuffled environment card deck. If you choose to change the environment, the remaining steps will be passed, and play will be passed to the next player.
 
-:::warning Notes
-In Free Mode, the environment **will not be collapsed** even if there was a fight in the last round.
-:::
+    :::warning
+    In Free Mode, the environment **will not be collapsed** even if there was a fight in the last round.
+    :::
 
-:::info Reap
+:::info Effects of Changing Environment
 If the environment has changed to a new one, the reaping characters will lose their reap state. The elements gained from the reap should be put back into the pool, and the reaping characters should be turned back from the exhausted position to the ready position.
 :::
 
@@ -59,16 +59,24 @@ You can perform these actions (Play, Discard, Use a Creature) in any order and r
 ### Recycle
 - You may choose to discard Artifact cards attached to your declared creature. Doing so allows you to collect elements represented by the Artifact Cards by moving the discarded Artifact cards to the discard pile and the gained elements to the Creature card.
 
-    :::info Notes
-    Only creatures without any damage can recycle Artifact cards. If the creature is defeated in this turn, the elements will be awarded to your opponent.
+    :::warning 
+    Only creatures without any damage can recycle their attached Artifact(s). If the creature is defeated in this turn, the elements will be awarded to your opponent.
     :::
 
 ### Use a Creature
 - Initiate a fight by turning your Creature card 90 degrees to an **exhausted** position. Choose an opponent’s creature to fight. Creatures deal damage simultaneously. The winner can collect elements from the opponent’s creature if it has Artifacts (items) attached.
+  
+    :::info Maximum Characters in Play
+    Players can have a **maximum of 6 characters** in play. If you already have 6 characters, you can either declare a fight with an opponent (and potentially lose a character) or recycle attached artifacts and then discard the character. 
+    :::
+    
+    :::warning
+    Remember, recycling can only occur if the character has no damage.
+    :::
 
 ## Step 6: Ready Cards and Collect Elements
 
-Turn all “exhausted cards back to a ready position. Collect any elements gained during your turn.
+Turn all **exhausted** cards back to a ready position. Collect any elements gained during your turn.
 
 :::info Notes
 There is a maximum capacity for each element type, based on the available space on your Gem Tokens. If you cannot place a gained element due to lack of capacity, you must discard that element.
