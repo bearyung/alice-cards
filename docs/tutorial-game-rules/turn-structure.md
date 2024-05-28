@@ -15,7 +15,7 @@ If you possess the required elements for one of the gems (Red, Green, or Purple)
 ### Reap
 - If your Creature Cards in play with element matches the element on the Environment card, place a “Reap” token on the Creature card and turn it 90 degrees to show it is “exhausted.” During the Collect Elements step, you gain the corresponding element.
 
-    :::warning
+    :::warning Attentions
     Only undamaged creatures can Reap.
     :::
 
@@ -34,7 +34,7 @@ The actions in this step must be performed in order (Reap, then Heal). You may c
 ### Free Mode
 - You may choose to change the Environment card in play by drawing the first card from the shuffled environment card deck. If you choose to change the environment, the remaining steps will be passed, and play will be passed to the next player.
 
-    :::warning
+    :::warning Attentions
     In Free Mode, the environment **will not be collapsed** even if there was a fight in the last round.
     :::
 
@@ -48,31 +48,40 @@ Declare which Creature you will use for this turn by flipping the corresponding 
 
 ## Step 5: Play, Discard, Recycle or Use Cards
 
-You can perform these actions (Play, Discard, Use a Creature) in any order and repeat them any number of times within your turn.
+You can perform these actions (Play, Discard, Recycle, Use a Creature) in any order and repeat them any number of times within your turn.
 
 ### Play a Card
-- Play Creature, Artifact, and Action cards. Environments can affect the Creature, altering abilities, attack/defense levels, and Artifact capacity.
+- Play Creature, Artifact, and Action cards. Players can have a **maximum of 6 characters** in play.
+
+    :::info Maximum Characters in Play
+    If you already have 6 characters in play, you can either declare a fight with an opponent (and potentially lose a character) or recycle attached artifacts and then discard the character. 
+    :::
+    
+    :::warning Attention
+    Remember, recycling can only occur if the character has no damage.
+    :::
 
 ### Discard
-- Discard any number of cards from your hand or in play that belong to the declared Creature. 
+- Discard any number of cards from your hand or in play that belong to the declared Creature.
+
+    :::warning Discarding Restrictions
+    Only creatures or artifacts without any damage can be discarded.
+    :::
 
 ### Recycle
 - You may choose to discard Artifact cards attached to your declared creature. Doing so allows you to collect elements represented by the Artifact Cards by moving the discarded Artifact cards to the discard pile and the gained elements to the Creature card.
 
-    :::warning 
+    :::warning Attention
     Only creatures without any damage can recycle their attached Artifact(s). If the creature is defeated in this turn, the elements will be awarded to your opponent.
     :::
 
 ### Use a Creature
 - Initiate a fight by turning your Creature card 90 degrees to an **exhausted** position. Choose an opponent’s creature to fight. Creatures deal damage simultaneously. The winner can collect elements from the opponent’s creature if it has Artifacts (items) attached.
-  
-    :::info Maximum Characters in Play
-    Players can have a **maximum of 6 characters** in play. If you already have 6 characters, you can either declare a fight with an opponent (and potentially lose a character) or recycle attached artifacts and then discard the character. 
+
+    :::info Exhausted Creatures
+    An "exhausted" character cannot be used again in this turn.
     :::
-    
-    :::warning
-    Remember, recycling can only occur if the character has no damage.
-    :::
+
 
 ## Step 6: Ready Cards and Collect Elements
 
