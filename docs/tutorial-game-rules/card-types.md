@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Card Types
-Card Types and Their Roles in "Alice: Cards of Wonder"
+Card Types and Their Roles in **Alice: Cards of Wonder**
 
 ## Creature Cards
 
@@ -69,3 +69,7 @@ These cards add strategic depth, requiring players to adapt their tactics based 
 :::info Environment Collapse
 In Story Mode, the environment will collapse after a battle occurs. The current environment card must be moved to the bottom of the environment deck, and a new environment card is drawn.
 :::
+
+## Summary
+
+Understanding the different card types—Creature, Artifact, Action, and Environment cards—is essential for mastering **Alice: Cards of Wonder**. Each type plays a unique role, from engaging in battles and enhancing abilities to altering game conditions and creating strategic opportunities. Familiarize yourself with how these cards interact to maximize your gameplay experience and strategize effectively.

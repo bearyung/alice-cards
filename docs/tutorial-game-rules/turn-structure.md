@@ -102,3 +102,6 @@ Once you have completed all previous steps, your turn comes to an end. Indicate 
 ## Game Flow
 
 The game continues in this turn-based manner, with each player following the steps from 1 to 8 during their turn. This loop continues until the winning conditions are met.
+
+## Summary
+Each player's turn in **Alice: Cards of Wonder** involves eight steps: refining gems, declaring a creature, maintaining or changing the environment, reaping and healing, playing, discarding, recycling or using cards, readying cards and collecting elements, drawing cards, and ending the turn. These structured steps ensure a balanced and strategic gameplay experience, guiding players through the phases of resource management, tactical decisions, and interactions with opponents to achieve victory.

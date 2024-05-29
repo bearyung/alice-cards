@@ -51,4 +51,6 @@ To remove a card from play, placing it into the discard pile. Discarding is ofte
 ## Refine
 The process of converting collected elements into a gem, as required to achieve the winning conditions of the game.
 
+## Summary
+
 Understanding these key terms will enhance your gameplay experience and help you master **Alice: Cards of Wonder** more quickly. Familiarize yourself with these terms to navigate the game mechanics, card types, and strategic actions effectively.
