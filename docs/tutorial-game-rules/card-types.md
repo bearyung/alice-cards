@@ -49,15 +49,23 @@ The effects of these cards are often game-changing and can provide a significant
 ### Role
 Action cards introduce an element of surprise and unpredictability, adding dynamic interactions and tactical decisions to the gameplay.
 
+:::info Specific Environment Requirement
+Some Action cards can only be played in specific environments with corresponding beneficial elements. These cards will have no effect if played in an environment that does not support that element.
+:::
+
 ## Environment Cards
 
-Environment cards change the landscape of the game, offering various challenges or benefits.
+Environment cards alter how elements can be reaped by characters, creating various conditions for gameplay.
 
 ### Usage
-Players play Environment cards to affect the gameplay conditions, such as by enhancing certain types of Creatures or Artifacts, or by altering how elements are collected.
+Players play Environment cards to set or change the current environment. In Story Mode, the environment card changes after a battle occurs, moving the current card to the bottom of the deck and drawing a new one. In Free Mode, players can choose to change the environment by drawing a new card.
 
 ### Gameplay Impact
-These cards can boost specific strategies, counter opponents' tactics, or provide unique conditions for refining gems.
+Environment cards influence the reaping of elements. Additionally, some Action cards can only be played under specific environmental conditions, enhancing or restricting their effects.
 
 ### Role
-Environment cards add a layer of strategic planning, encouraging players to adapt their tactics based on the current game environment.
+These cards add strategic depth, requiring players to adapt their tactics based on the environment. Changing conditions encourage flexibility and planning.
+
+    :::info Story Mode Environment Collapse
+    In Story Mode, the environment will collapse after a battle occurs. The current environment card must be moved to the bottom of the environment deck, and a new environment card is drawn.
+    :::
