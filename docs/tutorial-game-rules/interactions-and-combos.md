@@ -40,6 +40,6 @@ Use Lock Tokens to indicate that a creature or artifact is temporarily disabled.
 
 Aligning Environment cards with your active Creature’s element can maximize your turn's effectiveness. For example, playing an Environment card that benefits Earth elements when your active Creature is Earth-aligned can provide a tactical advantage.
 
-:::info Story Mode Environment Collapse
+:::info Collapse of Environment
 In Story Mode, the environment will collapse after a battle occurs. The current environment card must be moved to the bottom of the environment deck, and a new environment card is drawn.
 :::

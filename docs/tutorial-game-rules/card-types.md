@@ -66,7 +66,7 @@ Environment cards influence the reaping of elements. Additionally, some Action c
 ### Role
 These cards add strategic depth, requiring players to adapt their tactics based on the environment. Changing conditions encourage flexibility and planning.
 
-:::info Environment Collapse
+:::info Collapse of Environment
 In Story Mode, the environment will collapse after a battle occurs. The current environment card must be moved to the bottom of the environment deck, and a new environment card is drawn.
 :::
 
