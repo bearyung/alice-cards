@@ -13,7 +13,7 @@ In **Alice: Cards of Wonder**, your goal is to navigate the whimsical and ever-c
 - 52 beautifully illustrated playing cards, divided into four categories: Creatures, Artifacts, Actions, and Environments.
 - Creature cards, featuring characters like Alice, the Mad Hatter, the White Rabbit and Cheshire Cat, each with unique abilities.
 - Artifact cards that equip Creatures with special tools, skills, and powers.
-- Action cards, which are single-use and provide strategic advantages or disrupt opponents.
+- Action cards, which are either single-use or ongoing and provide strategic advantages or disrupt opponents.
 - Environment cards that alter the gameplay landscape, offering various benefits or challenges.
 - Additional components include creature tokens, gem tokens, and element tokens, which are integral to the gameplay mechanics.
 

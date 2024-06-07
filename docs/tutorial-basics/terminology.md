@@ -19,7 +19,7 @@ These cards represent characters from Wonderland, each equipped with unique abil
 Items or skills that can be attached to creatures to enhance their abilities or provide new skills. Artifacts are crucial for boosting a creature's performance in battles and tasks.
 
 ## Action Cards
-Single-use cards that can affect the game immediately in various ways, such as changing the game state, affecting other cards, or altering the outcome of battles.
+Either single-use or ongoing cards that can affect the game immediately in various ways, such as changing the game state, affecting other cards, or altering the outcome of battles.
 
 ## Environment Cards
 These cards change the playing field conditions, affecting all players and possibly benefiting or penalizing certain types of creatures or actions.

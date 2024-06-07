@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Card Types
@@ -38,16 +38,17 @@ These cards add depth to the strategy, allowing players to customize their appro
 
 ## Action Cards
 
-Action cards are powerful, single-use cards that have immediate effects on the game.
+Action cards provide a variety of powerful effects that can be either single-use or ongoing, impacting gameplay in different ways.
 
 ### Usage
-Players play Action cards to alter the course of the game, such as by impacting battles, disrupting opponents' plans, or changing the state of the game board.
+Players play Action cards to alter the course of the game. Some Action cards have immediate, single-use effects, while others can be attached to Creature cards for ongoing benefits.
 
-### Immediate Effects
-The effects of these cards are often game-changing and can provide a significant advantage or turn the tide in critical situations.
+### Effects
+- **Immediate Effects:** Single-use Action cards provide a significant, one-time advantage or alter gameplay in a critical moment.
+- **Attached Effects:** Some Action cards are attached to Creature cards in play, granting continuous benefits or abilities, such as enhanced combat skills or protective measures.
 
 ### Role
-Action cards introduce an element of surprise and unpredictability, adding dynamic interactions and tactical decisions to the gameplay.
+Action cards introduce an element of surprise and strategy, offering both immediate and ongoing tactical advantages. They can impact battles, disrupt opponents' plans, or alter the state of the game, providing dynamic interactions and enhancing the depth of gameplay.
 
 :::info Specific Environment Requirement
 Some Action cards can only be played in specific environments with corresponding beneficial elements. These cards will have no effect if played in an environment that does not support that element.

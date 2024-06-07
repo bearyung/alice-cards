@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Interactions and Combos
@@ -14,7 +14,7 @@ Creatures can be equipped with Artifacts to enhance their abilities, attack, and
 
 ### Action Cards and Strategic Timing
 
-Action cards, being single-use, can have game-changing effects. Timing their use to complement your active creature's abilities or counter an opponent's move can swing the momentum in your favor. For example, using an Action card that allows for an additional attack can be devastating when combined with a Creature card already enhanced with offensive Artifacts.
+Action cards, being either single-use or ongoing, can have game-changing effects. Timing their use to complement your active creature's abilities or counter an opponent's move can swing the momentum in your favor. For example, using an Action card that allows for an additional attack can be devastating when combined with a Creature card already enhanced with offensive Artifacts.
 
 ### Environment Cards as Game Changers
 
