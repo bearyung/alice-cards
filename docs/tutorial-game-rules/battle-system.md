@@ -22,7 +22,7 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
 ## 3. The Attack Power
 
 - **Definition**: Attack Power determines the amount of damage a Creature can inflict during a fight.
-- **Calculation**: Attack Power is the sum of the Creature's base attack value and any bonuses provided by attached Artifacts or Action cards.
+- **Calculation**: Attack Power is the sum of the values provided by attached Artifacts and bonuses from Action cards.
 - **Usage**: During a fight, a Creature's Attack Power directly determines the damage dealt to the opponent's creature. Even if the attacking creature has only 1 HP left, it can still inflict damage based on its full Attack Power.
 
 ## 4. The Defense Power
@@ -31,7 +31,15 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
 - **Calculation**: Defense Power is the sum of the defense values provided by attached Artifacts and bonuses from Action cards.
 - **Usage**: During a fight, a Creature's Defense Power is applied as damage to the attacking creature. It does not reduce the incoming damage but instead retaliates, causing damage to the attacker based on the Creature’s Defense Power.
 
-## 5. Engaging in Fight
+## 5. Creatures Without Artifacts
+
+- **Definition**: A Creature without any Artifacts attached is considered to be in its base state.
+- **Attack Power**: Without any Artifacts, a Creature's Attack Power is 1.
+- **Defense Power**: Without any Artifacts, a Creature's Defense Power is 1.
+- **HP**: Without any Artifacts, a Creature's HP is 1.
+- **Implication**: Despite their vulnerability, such Creatures still play an important role in battles. Even with minimal power, they can be crucial, especially when the opponent only has 1 HP left. Therefore, it's not always about the strength, but strategic use of these Creatures can turn the tide of the battle.
+
+## 6. Engaging in Fight
 
 - **Initiating a Fight**: Declare a fight by turning your active Creature card 90 degrees to an "exhausted" position.
 - **Battle Steps**:
@@ -41,15 +49,25 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
 - **Outcome**:
   - Apply the damage calculated from Attack and Defense Powers to each Creature’s HP.
   - If a Creature’s HP reaches zero, it is defeated and moved to the discard pile.
-  - The victorious Creature can collect elements from the opponent's defeated Creature if it has attached Artifacts.
+  - The attacking Creature can collect elements from the opponent's defeated Creature if it has attached Artifacts.
+  
+  :::warning Attentions
+  Only attacking Creatures can collect elements. Defending Creatures cannot collect elements from attacking Creatures, even if the attacking Creature is defeated.
+  :::
+  
+- **Simultaneous Defeat**:
+  - There may be scenarios where both the attacking and defending Creatures are defeated at the same time. For example, if the attacking Creature only has 2 HP left and the defending Creature has a Defense Power of 2, both Creatures will be defeated.
+  - In such cases, both Creatures are moved to the discard pile. No elements can be collected from defending Creature.
 
-## 6. Activating Character Abilities
+
+
+## 7. Activating Character Abilities
 
 - **Definition**: Each Creature card has unique abilities that can be activated to provide strategic advantages.
 - **Activation**: Abilities are activated by burning one unit of any collected element, which is then returned to the pool.
 - **Effect**: These abilities can provide various effects such as additional attacks, special actions, or interactions that can influence the outcome of battles or other aspects of gameplay.
 
-## 7. How Action Cards Can Reverse Disadvantages
+## 8. How Action Cards Can Reverse Disadvantages
 
 - **Timing**: Unless specified otherwise, most Action cards are either single-use or ongoing and can be played at strategic moments to change the course of the game.
 - **Effect**: Action cards can provide immediate benefits such as increasing attack power, healing damage, or creating other tactical advantages.
