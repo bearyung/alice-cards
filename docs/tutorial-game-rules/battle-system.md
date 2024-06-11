@@ -51,6 +51,7 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
   - If a Creature’s HP reaches zero, it is defeated and moved to the discard pile.
   - The attacking Creature can collect elements from the opponent's defeated Creature if it has attached Artifacts.
   
+  
   :::warning Attentions
   Only attacking Creatures can collect elements. Defending Creatures cannot collect elements from attacking Creatures, even if the attacking Creature is defeated.
   :::
