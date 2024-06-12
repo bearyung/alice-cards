@@ -51,7 +51,7 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
   - If a Creature’s HP reaches zero, it is defeated and moved to the discard pile.
   - The attacking Creature can collect elements from the opponent's defeated Creature if it has attached Artifacts.
   
-  
+
   :::warning Attentions
   Only attacking Creatures can collect elements. Defending Creatures cannot collect elements from attacking Creatures, even if the attacking Creature is defeated.
   :::
@@ -70,7 +70,7 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
 
 ## 8. How Action Cards Can Reverse Disadvantages
 
-- **Timing**: Unless specified otherwise, most Action cards are either single-use or ongoing and can be played at strategic moments to change the course of the game.
+- **Timing**: Action cards are either single-use or ongoing and can be played at strategic moments to change the course of the game.
 - **Effect**: Action cards can provide immediate benefits such as increasing attack power, healing damage, or creating other tactical advantages.
 - **Strategic Use**: Using Action cards effectively can help players overcome disadvantages by boosting their creatures' capabilities, countering opponents' moves, or altering the game state.
 - **Specific Environment Requirement**: Some Action cards can only be played in specific environments with corresponding beneficial elements. Once played, their effects are not limited to that environment.
