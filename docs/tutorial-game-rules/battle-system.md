@@ -58,7 +58,7 @@ Understanding the battle system in **Alice: Cards of Wonder** is crucial for eff
   
 - **Simultaneous Defeat**:
   - There may be scenarios where both the attacking and defending Creatures are defeated at the same time. For example, if the attacking Creature only has 2 HP left and the defending Creature has a Defense Power of 2, both Creatures will be defeated.
-  - In such cases, both Creatures are moved to the discard pile. No elements can be collected from defending Creature.
+  - In such cases, both Creatures are moved to the discard pile. Attacker can collect from defending Creature.
 
 
 
