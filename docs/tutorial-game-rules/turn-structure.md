@@ -70,7 +70,7 @@ You can perform these actions (Play, Discard, Recycle, Use a Creature) in any or
     :::
 
 ### Use a Creature
-- Initiate a fight by turning your Creature card 90 degrees to an **exhausted** position. Choose an opponent’s creature to fight. Creatures deal damage simultaneously. The winner can collect elements from the opponent’s creature if it has Artifacts (items) attached.
+- Initiate a fight by turning your Creature card 90 degrees to an **exhausted** position. Choose an opponent’s creature to fight. Creatures deal damage simultaneously. The attacker can collect elements from the opponent’s creature if it has Artifacts (items) attached.
 
     :::info Exhausted Creatures
     An "exhausted" character cannot be used again in this turn.
