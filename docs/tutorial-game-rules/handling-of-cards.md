@@ -12,7 +12,7 @@ Proper handling of cards in "Alice: Cards of Wonder" is essential for fair and s
 
 **During the Game:** At the beginning of your turn, unless specified otherwise by game rules or card abilities, you maintain a hand of six cards. Draw cards at the end of your turn to reach this number.
 
-**Deck Depletion:** If your deck runs out of cards, shuffle your discard pile to create a new draw deck. Continue drawing as required.
+**Deck Depletion:** If your deck runs out of cards, shuffle both player's discard pile and remaining deck together to create a new draw deck. Split the shuffled cards into two separate decks again. Continue drawing as required.
 
 ## Shuffling Cards
 
