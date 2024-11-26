@@ -49,8 +49,8 @@ You can perform these actions (Play, Discard, Recycle, Use a Creature) in any or
 ### Play a Card
 - Play Creature, Artifact, and Action cards. Players can have a **maximum of 6 characters** in play.
 
-    :::info Maximum Characters in Play
-    If you already have 6 characters in play, you can either declare a fight with an opponent (and potentially lose a character) or recycle attached artifacts and then discard the character. 
+    :::info Maximum Creatures in Play
+    If you already have 6 creatures in play, you can either declare a fight with an opponent (and potentially lose a creature) or recycle attached artifacts and then discard the creature. 
     :::
 
 ### Discard

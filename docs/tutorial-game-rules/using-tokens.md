@@ -41,27 +41,28 @@ Players need to adapt their strategy based on the Element Tokens they have and t
 In addition to Gem and Element Tokens, "Alice: Cards of Wonder" utilizes several other types of tokens, each serving specific purposes in the game:
 
 ### Health Point (HP) Tokens:
-- **Purpose:** HP Tokens indicate the remaining health points of a character.
+- **Purpose:** HP Tokens indicate the remaining health points of a creature.
 
-- **Usage:** Place HP Tokens on a character card to track its current health. Characters start with a certain number of HP Tokens, as indicated in their description.
+- **Usage:** Place HP Tokens on a creature card to track its current health. Creatures start with a certain number of HP Tokens, as indicated in their description.
 
-- **Effect:** When a character receives damage, remove the corresponding number of HP Tokens. If a character’s HP drops to zero, they are defeated and must be moved to the discard pile.
-Role in Battles: Monitoring HP is crucial during battles, as it determines a character's survivability and influence in the game.
+- **Effect:** When a creature receives damage, remove the corresponding number of HP Tokens. If a creatures' HP drops to zero, they are defeated and must be moved to the discard pile.
+
+- **Role in Battles:** Monitoring HP is crucial during battles, as it determines a creature's survivability and influence in the game.
 
 ### Reap Tokens:
-- **Purpose:** Reap Tokens indicate that a character is engaged in reaping elements.
+- **Purpose:** Reap Tokens indicate that a creature is engaged in reaping elements.
 
-- **Usage:** Place a Reap Token on a character card when they are reaping elements as per game rules.
+- **Usage:** Place a Reap Token on a creature card when they are reaping elements as per game rules.
 
-- **Effect:** A character with a Reap Token cannot declare or engage in fights during that turn. This represents their focus on gathering elements rather than battling.
+- **Effect:** A creature with a Reap Token cannot declare or engage in fights during that turn. This represents their focus on gathering elements rather than battling.
 
 ### Lock Tokens
-- **Purpose:** Lock Tokens are used to indicate that a character or artifact has been temporarily disabled or restricted by an opponent’s action or ability.
+- **Purpose:** Lock Tokens are used to indicate that a creature or artifact has been temporarily disabled or restricted by an opponent’s action or ability.
 
-- **Usage:** Place a Lock Token on a character or artifact card when an opponent’s action or ability prevents its use.
+- **Usage:** Place a Lock Token on a creature or artifact card when an opponent’s action or ability prevents its use.
 
-- **Effect:** The locked character or artifact cannot be used until the Lock Token is removed, typically at the start of the player’s next turn.
+- **Effect:** The locked creature or artifact cannot be used until the Lock Token is removed, typically at the start of the player’s next turn.
 
 ## Summary
 
-Tokens are vital in **Alice: Cards of Wonder**, representing elements and gems essential for victory. Gem Tokens (Red, Green, Purple) are refined from Element Tokens (Water, Wood, Fire, Earth, Metal, Herbs). Effective resource management and strategic use of Element Tokens are key to activating abilities and refining gems. Other tokens include Health Point (HP) Tokens for tracking character health, Reap Tokens for element collection, and Lock Tokens for indicating disabled characters or artifacts. Understanding token usage enhances gameplay and strategy.
+Tokens are vital in **Alice: Cards of Wonder**, representing elements and gems essential for victory. Gem Tokens (Red, Green, Purple) are refined from Element Tokens (Water, Wood, Fire, Earth, Metal, Herbs). Effective resource management and strategic use of Element Tokens are key to activating abilities and refining gems. Other tokens include Health Point (HP) Tokens for tracking creature health, Reap Tokens for element collection, and Lock Tokens for indicating disabled creatures or artifacts. Understanding token usage enhances gameplay and strategy.
