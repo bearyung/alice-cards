@@ -15,6 +15,9 @@ Players use Creature cards to engage in fights, collect elements, and activate s
 ### Abilities
 Each Creature card's abilities can be activated by paying the cost of one unit of any collected element. To use an ability, simply burn an element by returning it to the pool.
 
+### Attaching Artifacts
+Each Creature card has a number (1-3) displayed at the bottom right corner, indicating the maximum number of Artifact cards that can be attached to it. To attach an Artifact, simply place the Artifact card under the Creature card. Unless affected by special actions or other reasons that increase the capacity, no more than the indicated number of Artifacts can be attached to a Creature.
+
 ### Role
 These cards are central to the gameplay, as they are the primary means for players to interact with each other and progress in the game.
 

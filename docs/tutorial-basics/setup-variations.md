@@ -13,6 +13,11 @@ This tutorial is based on playing **Alice: Cards of Wonder** with the base set p
 ## Deck Setup Variation
 
 - **Shared Deck**: The default setting if you are playing with both the base set and the expansion set. Mix the expansion cards into the base cards, shuffle well, then split the deck into two. Each player will take one of the split decks.
+
+:::info Shared Deck with Base Set Only
+Players can still use the "Shared Deck" variation with the base set only. In this case, two players share the same base set deck without splitting it into two. Simply shuffle the deck and place it in the middle of the two players. Both players will draw from the same pile and use the same discard pile.
+:::
+
 - **Individual Decks**: The default setting if you are playing with the base set only. Each player uses their own deck of cards.
 
 ## Game Flow
