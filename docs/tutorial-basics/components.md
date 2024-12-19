@@ -16,9 +16,10 @@ Welcome to **Alice: Cards of Wonder**. This player guide, available online, is y
    - **Identity Cards (8):** Representing the key characters: Alice, the Mad Hatter, the White Rabbit, and the Cheshire Cat, 2 copies of each.
 
 ### Tokens
-- **Gem Tokens (3):** Red, Green, and Purple gems, the primary objectives of the game.
-- **Element Tokens (6):** Essential for refining gems, representing elements like Water, Wood, Fire, Earth, Metal, and Herbs.
-- **Effect Tokens:** Placed on cards to indicate they have effects/abilities/actions applied, acting as tags/labels to show side effects.
+- **Gem Tokens (6):** 2 copies of Red, Green, and Purple gems, the primary objectives of the game.
+- **Element Tokens (36):** Essential for refining gems, representing elements like Water, Wood, Fire, Earth, Metal, and Herbs, 6 copies of each.
+- **Effect Tokens (8):** Placed on cards to indicate they have effects/abilities/actions applied, acting as tags/labels to show side effects.
+- **Reap Tokens (12):** Placed on cards to indicate this creature is in reap state.
 
 ### Printed Player Guide
 The printed player guide is extracted from the online version and serves as a quick start reference for new players. It provides essential rules and guidelines to get you started with **Alice: Cards of Wonder**. For the most updated and comprehensive information, please refer to the online player guide.
