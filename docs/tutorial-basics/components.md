@@ -25,7 +25,7 @@ The printed player guide is extracted from the online version and serves as a qu
 
 ## Expansion Set
 
-- **Playing Cards (48 total)**
+### Playing Cards (48 total)
 - **Creature Cards (14)**
 - **Artifact Cards (20)**
 - **Action Cards (12)**
