@@ -9,7 +9,7 @@ Welcome to **Alice: Cards of Wonder**. This player guide, available online, is y
 ## Base Set
 
 ### Playing Cards (72 total)
-![Example banner](../../static/img/tutorial/basic-components-creatures.png)
+![Example banner](../../static/img/tutorial/basic-components-creatures.jpg)
    - **Creature Cards (16):** Includes characters such as Alice, the Mad Hatter, the White Rabbit, and the Cheshire Cat, each with unique abilities.
    - **Artifact Cards (20):** Equip Creatures with special items and skills for added powers.
    - **Action Cards (8):** Either single-use or ongoing cards for strategic gameplay twists.
