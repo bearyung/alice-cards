@@ -164,3 +164,7 @@ This page is your go-to resource for a complete list of all the playing cards in
 
 
 ### Identity Cards (2)
+| Name                       |
+|----------------------------|
+| Queen of Hearts |
+| Queen of Hearts |
