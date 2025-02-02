@@ -27,6 +27,29 @@ This page is your go-to resource for a complete list of all the playing cards in
 | Cheshire Cat - Mischievous | Water   | Vanish                 | 1        |
 
 ### Artifact Cards (20)
+| Name                       | Owner          | Element |  Attack | Defence |
+|----------------------------|----------------|---------|---------|---------|
+| Invisible Cloak            | Cheshire Cat   | Earth   | 1       | 4       |
+| Grinning Amulet            | Cheshire Cat   | Water   | 2       | 3       |
+| Mystic Orb                 | Cheshire Cat   | Herbs   | 3       | 2       |
+| Twinkling Tree Leaves      | Cheshire Cat   | Metal   | 4       | 1       |
+| Enigmatic Puzzle Box       | Cheshire Cat   | Wood    | 5       | 0       |
+| Fanciful Hat               | Mad Hatter     | Earth   | 3       | 2       |
+| Tea Set                    | Mad Hatter     | Water   | 1       | 4       |
+| Unbirthday Cake            | Mad Hatter     | Fire    | 5       | 0       |
+| March Hare's Clock         | Mad Hatter     | Metal   | 2       | 3       |
+| Butterfly Bowtie           | Mad Hatter     | Wood    | 4       | 1       |
+| Pocket Watch               | White Rabbit   | Earch   | 2       | 3       |
+| Dimensional Burrow         | White Rabbit   | Water   | 3       | 2       |
+| Herbal Elixir              | White Rabbit   | Herbs   | 0       | 5       |
+| Golden Key                 | White Rabbit   | Metal   | 1       | 4       |
+| Royal Trumpet              | White Rabbit   | Wood    | 4       | 1       |
+| Miniature Cake             | Alice          | Earth   | 1       | 4       |
+| Looking Glass              | Alice          | Water   | 2       | 3       |
+| Giant Mushroom Piece       | Alice          | Herbs   | 4       | 1       |
+| Vorpal Sword               | Alice          | Metal   | 3       | 2       |
+| VFlamingo Croquet Mallet   | Alice          | Wood    | 2       | 3       |
+
 ### Action Cards (8)
 ### Environment Cards (20)
 ### Identity Cards (8)
