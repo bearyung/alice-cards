@@ -5,7 +5,7 @@ sidebar_position: 5
 This page is your go-to resource for a complete list of all the playing cards in both the Base Set and the Extension Set. Dive into the detailed categories like Creature Cards, Artifact Cards, Action Cards, Environment Cards, and Identity Cards to find and reference any card you need for your game.
 
 
-## Base Set
+## Base Set (72)
 ### Creature Cards (16)
 | Name                       | Element | Ability                | Capacity |
 |----------------------------|---------|------------------------|----------|
@@ -101,8 +101,26 @@ This page is your go-to resource for a complete list of all the playing cards in
 | Cheshire Cat |
 | Cheshire Cat |
 
-## Extension Set
+## Extension Set (48)
 ### Creature Cards (14)
+| Name                       | Element | Ability                | Capacity |
+|----------------------------|---------|------------------------|----------|
+| White Rabbit - Precise       | Earth   | Every Second Counts   | 2        |
+| White Rabbit - Scared      | Water    | Flee the Scene           | 3        |
+| Queen of Hearts - Imperious     | Fire   | Off with Their Heads!      | 2        |
+| Queen of Hearts - Demanding     | Wood   | A Royal Command      | 1        |
+| Queen of Hearts - Angry     | Fire   | Fury      | 2        |
+| Queen of Hearts - Proud     | Metal   | Regal Presence      | 3        |
+| Queen of Hearts - Vindictive     | Fire   | Revenge      | 2        |
+| Queen of Hearts - Authoritative     | Water   | The Queen's Way      | 1        |
+| Mad Hatter - Mysterious     | Herbs    | Riddle Me This            | 3        |
+| Mad Hatter - Generous | Earth   | Gift of Madness        | 2        |
+| Alice - Adventurous              | Herbs   | Take a Chance                 | 3        |
+| Alice - Thoughtful        | Water   | Ponder   | 2        |
+| Cheshire Cat - Mysterious      | Metal   | Disappear    | 2        |
+| Cheshire Cat - Whimsical   | Wood    | Al in the Golden Afternoon         | 3        |
+
+
 ### Artifact Cards (20)
 ### Action Cards (12)
 ### Identity Cards (2)
