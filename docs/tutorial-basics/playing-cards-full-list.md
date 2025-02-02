@@ -122,5 +122,29 @@ This page is your go-to resource for a complete list of all the playing cards in
 
 
 ### Artifact Cards (20)
+| Name                       | Owner          | Element |  Attack | Defence |
+|----------------------------|----------------|---------|---------|---------|
+| Mirrored Sunglasses            | Cheshire Cat   | Water   | 3       | 2       |
+| Cryptic Wisdom            | Cheshire Cat   | N/A   | 2       | 3       |
+| Sly Tactics            | Cheshire Cat   | N/A   | 2       | 3       |
+| Dormouse's Teapot               | Mad Hatter     | Herbs   | 3       | 2       |
+| Endless Stories               | Mad Hatter     | N/A   | 3       | 2       |
+| Mad as a Hatter               | Mad Hatter     | N/A   | 5       | 0       |
+| Card Guard Shield               | Queen of Hearts     | Earth   | 0       | 5       |
+| Heart Diamond               | Queen of Hearts     | Water   | 2       | 3       |
+| Crown ofPower               | Queen of Hearts     | Fire   | 5       | 0       |
+| Royal Scepter               | Queen of Hearts     | Metal   | 1       | 4       |
+| Thorny Rose               | Queen of Hearts     | Wood   | 3       | 2       |
+| Queen's Tarts               | Queen of Hearts     | Herbs   | 4       | 1       |
+| Royal Judgment               | Queen of Hearts     | N/A   | 5       | 0       |
+| Opulent Summons               | Queen of Hearts     | N/A   | 4       | 1       |
+| Gardener's Paintbrush               | White Rabbit   | Wood   | 2       | 3       |
+| Time Management               | White Rabbit   | N/A   | 1       | 4       |
+| Prompt Action               | White Rabbit   | N/A   | 3       | 2       |
+| Bottle of 'Drink Me' Potion             | Alice          | Water   | 1       | 4       |
+| Brave Resolve             | Alice          | N/A   | 2       | 3       |
+| Curious Exploration             | Alice          | N/A   | 4       | 1       |
+
+
 ### Action Cards (12)
 ### Identity Cards (2)
