@@ -26,6 +26,7 @@ This page is your go-to resource for a complete list of all the playing cards in
 | Cheshire Cat - Grinning    | Metal   | A Smile That Lingers   | 3        |
 | Cheshire Cat - Mischievous | Water   | Vanish                 | 1        |
 
+
 ### Artifact Cards (20)
 | Name                       | Owner          | Element |  Attack | Defence |
 |----------------------------|----------------|---------|---------|---------|
@@ -50,7 +51,20 @@ This page is your go-to resource for a complete list of all the playing cards in
 | Vorpal Sword               | Alice          | Metal   | 3       | 2       |
 | VFlamingo Croquet Mallet   | Alice          | Wood    | 2       | 3       |
 
+
 ### Action Cards (8)
+| Name                       | Owner          |
+|----------------------------|----------------|
+| In a Hurry                 | White Rabbit   |
+| Timekeeper's Trick         | White Rabbit   |
+| Curiouser and Curiouser    | Alice          |
+| Change of Size             | Alice          |
+| Now You Don't              | Cheshire Cat   |
+| Grin and Bear I            | Cheshire Cat   |
+| Unbirthday Surprise        | Mad Hatter     |
+| Hatter's Ruse              | Mad Hatter     |
+
+
 ### Environment Cards (20)
 ### Identity Cards (8)
 
