@@ -8,4 +8,4 @@ This page provides a summary of the latest changes and updates to the game rules
 
 ## Version Updates
 
-1. Listed all the cards of base set and extension set in [Playing Cards Full List](tutorial-basics/playing-cards-full-list.md)
+1. Listed all the cards of base set and Expansion Set in [Playing Cards Full List](tutorial-basics/playing-cards-full-list.md)

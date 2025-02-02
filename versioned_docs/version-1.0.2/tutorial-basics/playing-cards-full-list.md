@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 # Playing Cards Full List
-This page is your go-to resource for a complete list of all the playing cards in both the Base Set and the Extension Set. Dive into the detailed categories like Creature Cards, Artifact Cards, Action Cards, Environment Cards, and Identity Cards to find and reference any card you need for your game.
+This page is your go-to resource for a complete list of all the playing cards in both the Base Set and the Expansion Set. Dive into the detailed categories like Creature Cards, Artifact Cards, Action Cards, Environment Cards, and Identity Cards to find and reference any card you need for your game.
 
 
 ## Base Set (72)
@@ -101,7 +101,7 @@ This page is your go-to resource for a complete list of all the playing cards in
 | Cheshire Cat |
 | Cheshire Cat |
 
-## Extension Set (48)
+## Expansion Set (48)
 ### Creature Cards (14)
 | Name                       | Element | Ability                | Capacity |
 |----------------------------|---------|------------------------|----------|
