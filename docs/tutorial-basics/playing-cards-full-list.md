@@ -66,7 +66,40 @@ This page is your go-to resource for a complete list of all the playing cards in
 
 
 ### Environment Cards (20)
+| Realm | Name                       | Element(s)          |
+|-------|----------------------------|---------------------|
+| 1     | The Rabbit Hole            | Earth, Water        |
+| 2     | The Caterpillar's Mushroom | Herbs        |
+| 3     | The Dormouse's Den | Earth, Herbs        |
+| 4     | Mad Tea Party | Water, Herbs        |
+| 5     | The Mad Hatter's Laboratory | Fire, Herbs        |
+| 6     | The March Hare's House | Earth, Fire        |
+| 7     | The Hatter's Hat Shop | Metal        |
+| 8     | The White Rabbit's Home | Wood        |
+| 9     | The Cheshire Cat's Lair | Earth, Water        |
+| 10    | Cheshire's Tree | Wood, Herbs        |
+| 11    | Tulgey Wood | Earth, Fire        |
+| 12    | The Enchanted Forest | Wood, Water        |
+| 13    | The Duchess's House | Earth, Herbs        |
+| 14    | The Palace Courts | Water, Metal        |
+| 15    | The Royal Court | Fire, Metal        |
+| 16    | The Knave's Courtroom | Fire, Metal        |
+| 17    | The Queen's Croquet Ground | Wood, Metal        |
+| 18    | The Hedge Maze | Earth, Wood        |
+| 19    | The Playing Card Army Barracks | Earth        |
+| 20    | The Looking-Glass World | Water        |
+
 ### Identity Cards (8)
+| Name                       |
+|----------------------------|
+| Alice |
+| Alice |
+| White Rabbit |
+| White Rabbit |
+| Mad Hatter |
+| Mad Hatter |
+| Cheshire Cat |
+| Cheshire Cat |
 
 ## Extension Set
 ### Creature Cards (14)
