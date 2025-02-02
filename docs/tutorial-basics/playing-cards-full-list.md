@@ -147,4 +147,20 @@ This page is your go-to resource for a complete list of all the playing cards in
 
 
 ### Action Cards (12)
+| Name                       | Owner          |
+|----------------------------|----------------|
+| Queen's Vengeance                 | Queen of Hearts   |
+| Off with Their Cards!                 | Queen of Hearts   |
+| Royal Decree                 | Queen of Hearts   |
+| Tyrant's Command                 | Queen of Hearts   |
+| Rabbit's Defense Boost                 | White Rabbit   |
+| Royal Edict         | White Rabbit   |
+| Healing Wisdom    | Alice          |
+| Wonderland's Guidance             | Alice          |
+| Cheshire's Reflect              | Cheshire Cat   |
+| Mystical Misdirection            | Cheshire Cat   |
+| Tea Time Twist        | Mad Hatter     |
+| Hatter's Reversal              | Mad Hatter     |
+
+
 ### Identity Cards (2)
